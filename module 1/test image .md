@@ -1,0 +1,2 @@
+Hello there this is an example of how to post an image to Github online without already having the image saved on the Github server. Will this work?
+![Image nvALT](nvALT storage preference-Screen Shot 2016-01-20 at 11.42.22 AM.png) 
