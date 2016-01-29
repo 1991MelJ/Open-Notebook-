@@ -4,4 +4,4 @@ If it shows "melissanelson$" you need to be in a specific file to make any chang
 Then type "ls" and Terminal will show you all files under melissanelson user. 
 Type "cd" for change directory--move from one file to the next--then type the file you need ex: "cd open-notebook-"
 This is how I pulled changes to my github from terminal: 
-![Terminal Change Directory Command](Terminal Commands-Screen Shot 2016-01-29.png)
+![Terminal Change Directory Command](Terminal Commands-Screen Shot 2016-01-29 at 3.24.38 PM.png)
