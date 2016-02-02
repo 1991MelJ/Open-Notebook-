@@ -1,6 +1,7 @@
 ##Jan 22: Initial Ideas!
 
-I started thinking deeper on how I could explore the idea of "future books." I first started thinking about it when I came across a TED talk by Brian Dettmer who spoke about the idea of physical books evolving as information becomes virtual. I first mentioned my curiosity on the subject on [1]:https://github.com/1991MelJ/Open-Notebook-/blob/master/module%201/Exercise%201%20Learn%20Markdown%20from%20Dillinger.md/ "my Dillinger exercise" when I made reference to Dettmer's art work, which was created from old books.
+I started thinking deeper on how I could explore the idea of "future books." I first started thinking about it when I came across a TED talk by Brian Dettmer who spoke about the idea of physical books evolving as information becomes virtual. I first mentioned my curiosity on the subject on [my Dillinger exercise][1] when I made reference to Dettmer's art work, which was created from old books.
+[1]:https://github.com/1991MelJ/Open-Notebook-/blob/master/module%201/Exercise%201%20Learn%20Markdown%20from%20Dillinger.md/ "my Dillinger exercise" 
 
 So I started thinking: Books in the physical form, will they die out? Will they change form? What evidence is there that they are dying or changing? Are there new technologies or innovations that could revolutionize the book? 
 What would all of this mean if books are changing? Does it mean people value books less? Or does it mean that the value attributed to books has/is shifting? Can books be given new meaning? Or will they always be associated with information? Can we consume the information within books different? Are e-books evolving?
