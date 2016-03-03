@@ -11,4 +11,4 @@ A few useful commands:
 
 I attempted this exercise, but because I do not own a computer and I am using a computer in the History Department it is difficult for me to complete the exercise. I downloaded the GitHub file, and made changes to the search parameters replacing `montenegr` with `native` and saved it to my [Github Repository](https://github.com/1991MelJ/Open-Notebook-/blob/master/module%202/Exercise-3-APIs-1991MelJ.api-ex-mac.sh). When it came to running the command that can be found below, the command line would not give me permission, and when I used the Admin account it could not locate the file. I tried to save a copy of the file under a folder in the Admin desktop and the command line still could not recognize the file. I'm not sure what I could have done differently, I would have liked to finish this exercise, I am sure I will make use of this for my final project.
 
-1[API command][API run program command instructions Screen Shot 2016-03-03 at 2.22.55 PM] 
+![API command][API run program command instructions Screen Shot 2016-03-03 at 2.22.55 PM] 
