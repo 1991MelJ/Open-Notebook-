@@ -15,11 +15,12 @@ For this exercise I had to [download a specific repository](https://github.com/1
 ![How to Download ZIP file](How to Download ZIP of Repository Screen Shot 2016-03-10 at 12.57.36 PM.png)
 
 I will also leave an image to remind myself how to change the settings on nvALT when adding a new folder, just in case I do forget in the future. 
+
 ![nvALT new folder Mod 3](Remember how to change nvALT settings for new folderScreen Shot 2016-03-10 at 1.16.58 PM.png)
 
 ###Remarks on Recovered History
 
-The link for the pamphlet [Negro Slavery by Zachary Macaulay](http://www.recoveredhistories.org/pamphlet1.php?page=1&orderby=date&catid=805) was hard to find on the [Recovered Histories website](http://www.recoveredhistories.org) by using the 'browse' function, and was equally difficult through using the search function. I ended up searching the pamphlet in google and found the date it was published and finally found the text by ordering the documents on the Recovered Histories website by date. When it came to vetting the website, my first impression was that this website was probably written by a history enthusiast and not a scholarly researcher because the format of the website did not look like it belonged to a legitimate organization. Its hard to say whether or not the information on this website is credible. 
+The link for the pamphlet [Negro Slavery by Zachary Macaulay](http://www.recoveredhistories.org/pamphlet1.php?page=1&orderby=date&catid=805) was hard to find on the [Recovered Histories website](http://www.recoveredhistories.org) by using the 'browse' function, and was equally difficult through using the 'search' function. I ended up searching for the pamphlet in google and found the date it was published and finally found the text by ordering the documents on the Recovered Histories website by date. When it came to vetting the website, my first impression was that this website was probably written by a history enthusiast and not a scholarly researcher because the format of the website did not look like it belonged to a legitimate organization or scholarly individual. Its hard to say whether or not the information on this website is credible just by looking at it. 
 
 ###Encoding My Transcription
 
