@@ -8,7 +8,7 @@ This [Programming Historian Exercise](http://programminghistorian.org/lessons/au
 
 * `-l 2` command is used to tell wget to follow a specific link and one page beyond the initial page provided 
 
-* `w 10` adds a 10 sec wait between server requests, also `--random`wait` command for websites whose terms of service do not mention a policy on automated downloading, and may have steps to prohibit automated downloading built into website. This command will vary the wait time.
+* `w 10` adds a 10 sec wait between server requests, also `--random-wait` command for websites whose terms of service do not mention a policy on automated downloading, and may have steps to prohibit automated downloading built into website. This command will vary the wait time.
 
 * `--limit-rate=20k` command limits the bandwidth you will use in download, so that you do not use up too much of server's bandwidth, sets max download speed to 20kb/s
 
