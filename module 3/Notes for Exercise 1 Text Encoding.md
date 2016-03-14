@@ -20,11 +20,13 @@ I will also leave an image to remind myself how to change the settings on nvALT 
 
 ###Remarks on Recovered History
 
-The link for the pamphlet [Negro Slavery by Zachary Macaulay](http://www.recoveredhistories.org/pamphlet1.php?page=1&orderby=date&catid=805) was hard to find on the [Recovered Histories website](http://www.recoveredhistories.org) by using the 'browse' function, and was equally difficult through using the 'search' function. I ended up searching for the pamphlet in google and found the date it was published and finally found the text by ordering the documents on the Recovered Histories website by date. When it came to vetting the website, my first impression was that this website was probably written by a history enthusiast and not a scholarly researcher because the format of the website did not look like it belonged to a legitimate organization or scholarly individual. Its hard to say whether or not the information on this website is credible just by looking at it. 
+The link for the pamphlet ["Negro Slavery" by Zachary Macaulay](http://www.recoveredhistories.org/pamphlet1.php?page=1&orderby=date&catid=805) was hard to find on the [Recovered Histories website](http://www.recoveredhistories.org) by using the 'browse' function, and was equally difficult through using the 'search' function. I ended up searching for the pamphlet in google and found the date it was published and finally found the text by ordering the documents on the Recovered Histories website by date. When it came to vetting the website, my first impression was that this website was probably written by a history enthusiast and not a scholarly researcher because the format of the website did not look like it belonged to a legitimate organization or scholarly individual. Its hard to say whether or not the information on this website is credible just by looking at it. 
 
-###Encoding My Transcription
+##Transcribing My Page
 
-After completing my transcription, I reached the section for encoding text
+![Transcribing page 3](Transcribing Negro Slavery pg 3 no codes added Screen Shot 2016-03-14 at 10.36.26 AM.png)
+
+For this exercise I decided to transcribe page 3 of "Negro Slavery". After completing my transcription, I reached the section for encoding text
 ![Text Encoding instructions](Text Encoding instructions Screen Shot 2016-03-10 at 2.45.00 PM.png)
 
-I am not sure how to highlight or colour text on Atom, I tried searching the help section of Atom and found nothing helpful. I will come back to this to try and add the mark-ups tomorrow.
+I am not sure how to highlight or colour text on Atom, I tried searching the help section of Atom and found nothing helpful. I decided not to complete the encoding section of this exercise and move on to the next one due to lack of time.
