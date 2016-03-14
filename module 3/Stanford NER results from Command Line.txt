@@ -1,0 +1,19 @@
+Last login: Mon Mar 14 13:08:37 on ttys001
+macpa431-03:~ melissanelson$ /Users/melissanelson/Downloads/stanford-ner-2015-12-09/ner-gui.command ; exit;
+Loading classifier from /Users/melissanelson/Downloads/stanford-ner-2015-12-09/classifiers/english.all.3class.distsim.crf.ser.gz ... done [1.8 sec].
+content type: text/rtf
+PERSON: Damon Keith
+ORGANIZATION: Archives Canada
+LOCATION: Canada
+ORGANIZATION: Treasury Board Secretariat
+ORGANIZATION: LAC
+ORGANIZATION: Archives Canada
+LOCATION: Canada
+LOCATION: LAC
+ORGANIZATION: Treasury Board Secretariat
+ORGANIZATION: Public Services and Procurement Canada
+LOCATION: Canada
+LOCATION: Canada
+PERSON: Guy Berthiaume
+Librarian
+LOCATION: Canada
