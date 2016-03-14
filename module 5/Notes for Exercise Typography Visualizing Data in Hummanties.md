@@ -2,7 +2,7 @@
 
 This exercise is to help me understand the importance text font plays in visual communication. Text, as well as the appearance of its words, both convey a message to the reader. Text font creates a mood and atmosphere, and gives the reader clues about how to understand the text. Fonts like `Roman` communicate strength, authority, and legitimacy in its bold and strong appearance. With that in mind, a font like this would not be used by a writer who is trying to convey lighthearted humour in their text. Understanding the role text font plays in visual communication helps the writer choose effective text styles for their documents and projects. 
 
-As part of this exercise I played a few rounds of [Typeconnection](http://www.typeconnection.com/index.php) to find a "dating match" for a font of my choosing. It was a fun and interesting way of understand hy various font pairings work, and why some also do not.
+As part of this exercise I played a few rounds of [Typeconnection](http://www.typeconnection.com/index.php) to find a "dating match" for a font of my choosing. It was a fun and interesting way to understand why various font pairings work, and why some also do not.
 
 ![Typeconnection](Typography ex matching fonts Screen Shot 2016-03-14 at 4.19.13 PM.png)
 
