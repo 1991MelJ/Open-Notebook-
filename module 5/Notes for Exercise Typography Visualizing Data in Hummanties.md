@@ -9,7 +9,8 @@ As part of this exercise I played a few rounds of [Typeconnection](http://www.ty
 ![Making a Match](Typeconnection making a match Screen Shot 2016-03-14 at 4.23.47 PM.png)
 
 And I got a few successful matches, the one shown above was a "happy couple":
-![Match Success Typeconnection](Typeconnection match success Screen Shot 2016-03-14 at 4.24.48 PM)
+
+![Match Success Typeconnection](Typeconnection match success Screen Shot 2016-03-14 at 4.24.48 PM.png)
 
 ###Paradata: What Does My Font Say
 
