@@ -1,2 +1,2 @@
 # Open-Notebook-
-A Notebook for my work on each module and research.
+A Notebook to document my research and progress on each module for my HIST3907o [Crafting Digital History Course](http://workbook.craftingdigitalhistory.ca/).
