@@ -2,7 +2,7 @@
 
 So after speaking to Dr. Graham about my initial project ideas he advised me to focus my research around history, and how history is being produced and taught using digital books. He advised me to look at JSTOR and find scholarly research that looked at changes within publishing. 
 
-Also, Dr. Graham directed me to [Module 4 Excercise 6](http://workbook.craftingdigitalhistory.ca/module-4/Exercises)] in our course workbook, which talks about analyzing text using Voyant. This tool can be useful for me because Voyant can be used to visualize patterns in words, and can arrange data in chronological order so we can see changes over time. 
+Also, Dr. Graham directed me to [Module 4 Excercise 6](http://workbook.craftingdigitalhistory.ca/module-4/Exercises) in our course workbook, which talks about analyzing text using Voyant. This tool can be useful for me because Voyant can be used to visualize patterns in words, and can arrange data in chronological order so we can see changes over time. 
 
 Another tool that I think will be useful is using TWARC to grab, archive, share, inflate, and visualize tweets. I want to use this to mine Twitter, and see what patterns emerge when the tweets `OA` `openaccess` `humanities` `history` are used, especially when they are used in a combination. I am not sure if I want to focus my attention on Canada, but given that [Canada's open access initiatives](http://open.canada.ca/en/blog/open-data-across-canada-snapshot) are not very extensive I am considering looking at the US, and Europe as well. 
 
