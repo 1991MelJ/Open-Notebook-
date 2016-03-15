@@ -12,8 +12,8 @@ And I got a few successful matches, the one shown above was a "happy couple":
 
 ![Match Success Typeconnection](Typeconnection match success Screen Shot 2016-03-14 at 4.24.48 PM.png)
 
-###Paradata: What Does My Font Say
+###My Best Modules Exhibit: What Does My Font Say
 
 ![Font I like](If I could choose my own font typeconnection Screen Shot 2016-03-14 at 4.28.59 PM.png)
 
-I like this font, for my Paradata I would like to choose a font similar to this one because I think it conveys simplicity, maturity, structure, organization. I want to display my progress in this course with clear and concise posts, with visuals to give the reader a better understanding of what I was trying to accomplish in each exercise and what I did successfully in each exercise. Along with font, I think that [colour](http://www.ucreative.com/resources/infographic-a-color-guide-for-designers/) also plays a large role in visual communication, I would prefer to use a white background and minimize the amount of colour I put in my text because I think strong colour in the text would not communicate the level of maturity that I am looking to demonstrate. 
+I like this font, for my Exhibit of my best modules I would like to choose a font similar to this one because I think it conveys simplicity, maturity, structure, organization. I want to display my progress in this course with clear and concise posts, with visuals to give the reader a better understanding of what I was trying to accomplish in each exercise and what I did successfully in each exercise. Along with font, I think that [colour](http://www.ucreative.com/resources/infographic-a-color-guide-for-designers/) also plays a large role in visual communication, I would prefer to use a white background and minimize the amount of colour I put in my text because I think strong colour in the text would not communicate the level of maturity that I am looking to demonstrate. 
