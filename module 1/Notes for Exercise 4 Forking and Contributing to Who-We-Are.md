@@ -1,1 +1,3 @@
 I found this pretty easy, I think Github is getting easier for me to use, it makes more sense to me now. This exercise was good practice for writing with Markdown/in Github. I found a [cute Adventure Time GIF to use in my who-we-are repository](https://github.com/1991MelJ/who-we-are/blob/master/melissanelson.md), I wonder if there is a way to post GIFs and videos to stream directly on your Github page. Side note: Github has some useful tips on writing in Markdown here: https://help.github.com/articles/markdown-basics/ 
+
+![Instructions for Who We Are Ex](who we are remember how to fork, clone, pull req Screen Shot 2016-03-15 at 2.53.05 PM.png)
