@@ -1,8 +1,6 @@
 ###Mapping with geoJSON
 
-[geoJSON](http://geojson.org/) is a data format for representing geographic data structures. The features include *points* (addresses and locations), *line strings* (streets, highways and boundaries), polygons (countries, provinces, tracts of land), and multi-part collections of these types. GeoJSON is supported by numerous mapping software packages ex [Leaflet](http://leafletjs.com/examples/geojson.html) and [GeoServer.](http://geoserver.org/) Also Google, Bing and Yahoo support geoJSON in their API services. 
-
-[GitHub Help](https://help.github.com/articles/mapping-geojson-files-on-github/) has some tips on how to render geoJSON map files within GitHub repositories, and also provides a template for embedding geoJSON maps outside of GitHub (on any HTML page that supports javascript).
+[geoJSON](http://geojson.org/) is a data format for representing geographic data structures. The features include *points* (addresses and locations), *line strings* (streets, highways and boundaries), *polygons* (countries, provinces, tracts of land), and multi-part collections of these types. GeoJSON is supported by numerous mapping software packages ex [Leaflet](http://leafletjs.com/examples/geojson.html) and [GeoServer.](http://geoserver.org/) Also Google, Bing and Yahoo support geoJSON in their API services. [GitHub Help](https://help.github.com/articles/mapping-geojson-files-on-github/) has some tips on how to render geoJSON map files within GitHub repositories, and also provides a template for embedding geoJSON maps outside of GitHub (on any HTML page that supports javascript). 
 
 [This site](http://geojsonlint.com/) gives you a live preview of how geoJSON data appears on a map. Also, for tips on how to use geoJSON read this [article.](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 
