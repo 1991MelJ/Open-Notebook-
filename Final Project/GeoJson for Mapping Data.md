@@ -6,7 +6,7 @@
 
 [This site](http://geojsonlint.com/) gives you a live preview of how geoJSON data appears on a map. Also, for tips on how to use geoJSON read this [article.](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 
-![Single Features](Features geoJSON 2016-03-29 at 4.07.17 PM)
+![Single Features](Features geoJSON 2016-03-29 at 4.07.17 PM.png)
 
 ![Multi- Features](Multi-geoJSON 2016-03-29 at 4.06.53 PM.png)
 
