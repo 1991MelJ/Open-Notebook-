@@ -11,3 +11,7 @@
 ###Using TWARC
 
 [TWARC](https://github.com/1991MelJ/twarc) can be used to extract the coordinates from tweets, and then turn them into geoJSON data to visualize it into a map. I will use TWARC to gather a dataset from twitter, and using the coordinates from tweets, I will map how and where people are talking about Open Access in relation to history and scholarly publishing. Because scholars, institutions, and students use twitter to share information and express their views I think twitter will become my main source of data for my final project. Previously, I was considering looking through "open" digital libraries to see how open publishing has evolved, and how the open access movement has been discussed within publishing. I will not be doing this, because I do not have the time to go through the amount of published articles/books and "open" digital libraries I would need to get a clear understanding of the evolution of the open access movement.
+
+###Getting Set up with TWARC (Twitter Archiving)
+
+You will need to go [here](https://github.com/1991MelJ/module3-wranglingdata/blob/master/twarc.md) and download then install Python so that your computer can understand TWARC commands. Then go to [Ed Summers twarc GitHub repository](https://github.com/edsu/twarc) and download the zip (you can also install from command line but it does not give you the utilities folder from there, utilities can be used to filter the gender of a tweet's author for example).
