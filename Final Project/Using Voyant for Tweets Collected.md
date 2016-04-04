@@ -1,6 +1,12 @@
 ###Word Clouds with Voyant
 
-So far the most frequent words I am finding in the data I uploaded are interesting. Openaccess, Canada, Open, research, university, opinion, copywriting, repository are a few. I can start to see how people are talking about Open Access based on the frequency of those words, I will upload the data into geoJSON to narrow the location to Canada so I can see how Canadians more specifically are talking about OA. Here is the [URL](http://voyant-tools.org/?corpus=1459791714699.7807&stopList=1459792914851go) for my data on Voyant. The word cloud is currently cropping my words, I'm not sure how to correct that. I also tried deleting the data and uploading it again. Just in case here is the full list of my stop words saved under "Mylist":
+So far the most frequent words I am finding in the data I uploaded are interesting. Openaccess, Canada, Open, research, university, opinion, copywriting, repository are a few. I can start to see how people are talking about Open Access based on the frequency of those words, I will upload the data into geoJSON to narrow the location to Canada so I can see how Canadians more specifically are talking about OA. Here is the [URL](http://voyant-tools.org/?corpus=1459791714699.7807&stopList=1459792914851go) for my data on Voyant. The word cloud is currently cropping my words, I'm not sure how to correct that. I also tried deleting the data and uploading it again. 
+
+![Voyant cropping image](voyant cropping word cloud 2016-04-04 at 1.49.22 PM.png)
+
+![Voyant making text too big](voyant text too big2016-04-04 at 1.46.31 PM.png)
+
+I may have to upload my files again to get the word cloud to appear correctly. Just in case here is the full list of my stop words saved under "Mylist":
 
 ```
 !
