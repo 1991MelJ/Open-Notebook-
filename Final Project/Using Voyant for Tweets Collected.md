@@ -6,6 +6,10 @@ So far the most frequent words I am finding in the data I uploaded are interesti
 
 ![Voyant making text too big](voyant text too big2016-04-04 at 1.46.31 PM.png)
 
+Also, when I tired to upload my files into RezoViz it generated an error and said that I exceeded its limit, so I guess my files are too big when combined, so I entered only one file. Here are my initial RezoViz Results for my `mel-sshrc.csv`  file, I did not expect to find Tokyo listed on here with a relationship to Canada, very interesting.
+
+![RezoViz results](RizoViz 2016-04-04 at 2.25.23 PM.png)
+
 I may have to upload my files again to get the word cloud to appear correctly. Just in case here is the full list of my stop words saved under "Mylist":
 
 ```
