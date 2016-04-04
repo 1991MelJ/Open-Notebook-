@@ -11,4 +11,7 @@ So I tried again and decided to upload only the mel-openaccessl.csv file to see 
 ![created second doc set](Document cannot be uploaded Overview 2016-04-04 at 3.39.56 PM.png)
 ![second doc set](uploaded files but overview not working 2016-04-04 at 3.36.31 PM.png)
 
-I also cannot see some of the data in both document sets, and the stop word feature is not being applied to all of the visualization tools. I'm not sure if it is the format of my files but both Voyant and Overview were giving me issues with this data set.
+I also cannot see some of the data in both document sets, and the stop word feature is not being applied to all of the visualization tools. I'm not sure if it is the format of my files but both Voyant and Overview were giving me issues with this data set. Here is a list of relevant terms, which were found in Overview:
+
+![list of words](Screen Shot 2016-04-04 at 3.59.13 PM.png)
+![list of words pt 2](Screen Shot 2016-04-04 at 3.58.56 PM.png)
