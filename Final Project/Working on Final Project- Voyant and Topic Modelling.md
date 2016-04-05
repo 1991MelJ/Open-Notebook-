@@ -3,3 +3,5 @@ I told Dr. Graham about my issue with Voyant and he suggested that I remove some
 ![Final Voyant Results](Voyant final results 2016-04-05 at 4.29.27 PM.png)
 
 I also fed my data into Topic Modeling. My files for the output are [output_csv](https://github.com/1991MelJ/Open-Notebook-/tree/master/Final%20Project/output_csv) and [output_html](https://github.com/1991MelJ/Open-Notebook-/tree/master/Final%20Project/output_html). This is a browser-based way of navigating my topics and document, I can input this into a spreadsheet for visualization. I will try this in Overview because it may have been giving me an issue for the same reason Voyant was, so this way my data is already sorted and I applied stop words.
+
+I added a new theme to my final project blog, hopefully this will work for me. The site is here: http://final-project.theproudhistorynerd.com/
