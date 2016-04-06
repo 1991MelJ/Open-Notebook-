@@ -1,0 +1,2 @@
+RAW sorts your data ex. hashtag, number of retweets, can use this to visualize data this tool is simple to use. There are charts and clusters to see relationship between words. Can use this to see relationship between location and hashtag and retweet/favourites. 
+The website for RAW is [here](http://app.raw.densitydesign.org/) and the exercise for RAW is in the course workbook [here](http://workbook.craftingdigitalhistory.ca/module-4/Exercises/). Is it posible to extract data relating to Canada and then chart this is RAW? What can I use to do this, Stanford NER?
