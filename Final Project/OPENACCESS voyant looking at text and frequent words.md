@@ -1,4 +1,4 @@
-This is the stop word list I used for this data. There are still more to add, 
+This is the stop word list I used for this data. There are still more to add, [here](http://voyant-tools.org/tool/Cirrus/?corpus=1460054427205.3831&stopList=1460055421033ir&docIndex=0&docId=d1460002127429.9d68d7c5-1674-3fe3-5231-f2d1b5472b17) is the link for my word cloud 
 
 ```
 !
@@ -1915,4 +1915,8 @@ sur
 gt
 iäó
 läó
+iäó
+läó
+täó
+í
 ```
